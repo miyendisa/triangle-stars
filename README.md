@@ -3,11 +3,10 @@
 ### This program prints stars as a inverted triangle. 
 
 --- 
-**The data on how many lines to print the stars are taken from the user.** 
+**The data on how many lines(n) to print the stars are taken from the user.** 
 
- *******************
-  *****************
-   ***************
+If n = 7 the triangle will be as
+
     *************
      ***********
       *********
@@ -15,7 +14,6 @@
         *****
          ***
           *
-
 
 ---
 
